@@ -1,0 +1,3 @@
+[submodule "lib/nicr-scene-analysis-datasets"]
+	path = lib/nicr-scene-analysis-datasets
+	url = https://github.com/TUI-NICR/nicr-scene-analysis-datasets
