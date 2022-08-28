@@ -1,6 +1,6 @@
 # Efficient and Robust Semantic Mapping for Indoor Environments
 
-This repository contains the code to our paper "Efficient and Robust Semantic Mapping for Indoor Environments" ([arXiv](https://arxiv.org/pdf/2203.05836.pdf)).
+This repository contains the code to our paper "Efficient and Robust Semantic Mapping for Indoor Environments" ([IEEE Xplore](https://ieeexplore.ieee.org/document/9812205), [arXiv](https://arxiv.org/pdf/2203.05836.pdf)).
 
 <div align="center">
       <a href="https://youtu.be/69HEnCQYybs"><img src="https://img.youtube.com/vi/69HEnCQYybs/0.jpg" style="object-fit: none; height: 270px; width: 480px;"></a>
@@ -14,9 +14,19 @@ The source code and the network weights are published under BSD 3-Clause license
 If you use the source code or the network weights, please cite the following paper:
 >Seichter, D., Langer, P., Wengefeld, T., Lewandowski, B., Höchemer, D., Gross, H.-M.
 *Efficient and Robust Semantic Mapping for Indoor Environments*
-to appear in IEEE International Conference on Robotics and Automation (ICRA), 2022.
+in IEEE International Conference on Robotics and Automation (ICRA), pp. 9221-9227, 2022.
 
 ```bibtex
+@inproceedings{semanticndtmapping2022icra,
+  title={Efficient and Robust Semantic Mapping for Indoor Environments},
+  author={Seichter, Daniel and Langer, Patrick and Wengefeld, Tim and Lewandowski, Benjamin and H{\"o}chemer, Dominik and Gross, Horst-Michael},
+  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
+  year={2022},
+  volume={},
+  number={},
+  pages={9221-9227}
+}
+
 @article{semanticndtmapping2022arXiv,
   title={Efficient and Robust Semantic Mapping for Indoor Environments},
   author={Seichter, Daniel and Langer, Patrick and Wengefeld, Tim and Lewandowski, Benjamin and H{\"o}chemer, Dominik and Gross, Horst-Michael},
