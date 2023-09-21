@@ -3,7 +3,7 @@
 This repository contains the code to our paper "Efficient and Robust Semantic Mapping for Indoor Environments" ([IEEE Xplore](https://ieeexplore.ieee.org/document/9812205), [arXiv](https://arxiv.org/pdf/2203.05836.pdf)).
 
 <div align="center">
-      <a href="https://youtu.be/69HEnCQYybs"><img src="https://img.youtube.com/vi/69HEnCQYybs/0.jpg" style="object-fit: none; height: 270px; width: 480px;"></a>
+      <a href="https://youtu.be/69HEnCQYybs"><img src="https://img.youtube.com/vi/69HEnCQYybs/maxresdefault.jpg" style="width: 70%;"></a>
       <br>(Click on the image to open YouTube video)
       <br><br>
 </div>
