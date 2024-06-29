@@ -8,6 +8,8 @@ This repository contains the code to our paper "Efficient and Robust Semantic Ma
       <br><br>
 </div>
 
+> You may also want to have a look at our follow-up work: [**PanopticNDT**](https://github.com/TUI-NICR/panoptic-mapping)
+
 ## License and Citations
 The source code and the network weights are published under BSD 3-Clause license, see [license file](LICENSE) for details.
 
@@ -16,25 +18,30 @@ If you use the source code or the network weights, please cite the following pap
 *Efficient and Robust Semantic Mapping for Indoor Environments*
 in IEEE International Conference on Robotics and Automation (ICRA), pp. 9221-9227, 2022.
 
+<details>
+<summary>BibTeX</summary>
+ 
 ```bibtex
 @inproceedings{semanticndtmapping2022icra,
-  title={Efficient and Robust Semantic Mapping for Indoor Environments},
-  author={Seichter, Daniel and Langer, Patrick and Wengefeld, Tim and Lewandowski, Benjamin and H{\"o}chemer, Dominik and Gross, Horst-Michael},
-  booktitle={IEEE International Conference on Robotics and Automation (ICRA)},
-  year={2022},
-  volume={},
-  number={},
-  pages={9221-9227}
+  title	    = {{Efficient and Robust Semantic Mapping for Indoor Environments}},
+  author    = {Seichter, Daniel and Langer, Patrick and Wengefeld, Tim and Lewandowski, Benjamin and H{\"o}chemer, Dominik and Gross, Horst-Michael},
+  booktitle = {IEEE International Conference on Robotics and Automation (ICRA)},
+  year      = {2022},
+  volume    = {},
+  number    = {},
+  pages     = {9221-9227}
 }
 
 @article{semanticndtmapping2022arXiv,
-  title={Efficient and Robust Semantic Mapping for Indoor Environments},
-  author={Seichter, Daniel and Langer, Patrick and Wengefeld, Tim and Lewandowski, Benjamin and H{\"o}chemer, Dominik and Gross, Horst-Michael},
-  journal={arXiv preprint arXiv:2203.05836},
-  year={2022}
+  title	    = {{Efficient and Robust Semantic Mapping for Indoor Environments}},
+  author    = {Seichter, Daniel and Langer, Patrick and Wengefeld, Tim and Lewandowski, Benjamin and H{\"o}chemer, Dominik and Gross, Horst-Michael},
+  journal   = {arXiv preprint arXiv:2203.05836},
+  year      = {2022}
 }
 ```
 Note that the preprint was accepted to be published in IEEE International Conference on Robotics and Automation (ICRA).
+
+</details>
 
 ## Setup
 
